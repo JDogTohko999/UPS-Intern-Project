@@ -4,6 +4,9 @@ This PowerShell script automates the driver package creation process. Essentiall
 # FilesAndFoldersCounter Script
 This PowerShell script simply returns the average of the number of files, folders, and folders directly containing files in a designated set of driver packages.
 
+
+
+
 Final Note:
 I did my best to redact any names/data that could be considered sensitive information to UPS. I have the unredacted versions in the gitignore. Contact me if needed.
 
