@@ -1,4 +1,4 @@
-# Driver Cabinet Creations Script
+# Driver Cabinet Creation Script
 This PowerShell script automates the driver package creation process. Essentially all you have to do is go to the vendor's site and download the model's driver package. Run this script and all of the drivers will get copied over from the vendor's folder hierarchy into the UPS standardized folder hierarchy handling all edge cases. The script takes on avg 30-50 seconds to complete. Upon completion, the runtime will be displayed and a .log file can be found in the user's documents folder. The previous manual process of correctly copying the files took 2-3 hours and more than half of the times files were missed or copied to wrong location.
 
 # FilesAndFoldersCounter Script
